@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionverify",
+        "uuid": 237270,
+        "checksum": "rboi4"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
